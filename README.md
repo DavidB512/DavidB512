@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @DavidB512
-- 🌱 I’m currently learning web development skills with SkillCrush
+- 🌱 I’m learning web development skills with @SkillCrush!
+		 ✔ HTML
+     ✔ CSS
+     ✔ Version_control with GIT
 - 📫 Dvdbrry@gmail.com
 
 <!---
