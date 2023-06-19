@@ -3,7 +3,6 @@
 		 ✔ HTML
      ✔ CSS
      ✔ Version_control with GIT
-- 📫 Dvdbrry@gmail.com
 
 <!---
 DavidB512/DavidB512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
